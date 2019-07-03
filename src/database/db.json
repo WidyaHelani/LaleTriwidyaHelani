@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "mawar",
+      "email": "mawar@gmail.com",
+      "password": "lalala"
+    },
+    {
+      "username": "wiwi",
+      "email": "wiwi@gmail.com",
+      "password": "haha",
+      "id": 2
+    },
+    {
+      "username": "ade",
+      "email": "love@gmail.com",
+      "password": "hihi",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Chocolate Tart Cake",
+      "desc": "menu baru",
+      "price": "30000",
+      "src": "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/carrot-cake.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Strawberry Tart Cake",
+      "desc": "rasa strawberry",
+      "price": 25000,
+      "src": "https://www.biggerbolderbaking.com/wp-content/uploads/2017/08/1C5A0056.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tiramisu",
+      "desc": "paduan coklat dan kopi",
+      "price": 50000,
+      "src": "https://tarifdunyasi.com/wp-content/uploads/2019/02/tiramisu-tarifi.jpg"
+    },
+    {
+      "name": "Red Velvet Cake",
+      "desc": "Baru dibuat hari ini",
+      "price": 35000,
+      "src": "https://pandhalcakeshop.com/wp-content/uploads/2017/11/Red-Velvet-Cake-with-Cream-Cheese-Frosting_landscape-1.jpg",
+      "id": 4
+    },
+    {
+      "name": "Chiffon Cake",
+      "desc": "Lembut dan Enak",
+      "price": 35000,
+      "src": "https://cookingwithdog.com/wp-content/uploads/2017/02/chiffon-cake-00.jpg",
+      "id": 5
+    },
+    {
+      "name": "Brownies",
+      "desc": "Full Chocolate",
+      "price": 35000,
+      "src": "https://www.rbshop.id/wp-content/uploads/2018/12/Brownis-RBSHOP-Rbshop.jpg",
+      "id": 6
+    }
+  ]
+}
